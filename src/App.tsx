@@ -19,7 +19,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-50">
       <nav className="bg-white shadow-lg">
         <div className="max-w-7xl mx-auto px-4 py-6">
-          <h1 className="text-3xl font-bold text-gray-800"> Remedies</h1>
+          <h1 className="text-3xl font-bold text-gray-800"> Remedio</h1>
         </div>
       </nav>
 
